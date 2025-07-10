@@ -8,7 +8,7 @@ Este repositório contém meus estudos em **Java**, seguindo o roadmap proposto 
 
 Estou utilizando este roadmap como guia:
 
-![Roadmap Java](roadmap-java.png)
+![Roadmap Java](roadmap-java.jpg)
 
 > 🔗 Fonte: [https://roadmap.sh/java](https://roadmap.sh/java)
 
