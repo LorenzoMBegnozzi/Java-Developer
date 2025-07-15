@@ -25,10 +25,10 @@ public class Main {
             }
         }
 
-        System.out.println("Números gerados: " + Arrays.toString(numero));
+        System.out.println("Numeros gerados: " + Arrays.toString(numero));
         System.out.println("Soma: " + soma);
-        System.out.println("Média: " + media);
-        System.out.println("Quantidade acima da média: " + quantacima);
+        System.out.println("Media: " + media);
+        System.out.println("Quantidade acima da media: " + quantacima);
 
     }
 }
