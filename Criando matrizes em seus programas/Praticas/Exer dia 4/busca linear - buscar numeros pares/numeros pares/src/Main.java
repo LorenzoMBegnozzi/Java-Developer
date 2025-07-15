@@ -8,7 +8,7 @@ public class Main {
         Random random = new Random();
 
         for (int i = 0; i < numeros.length; i++) {
-            numeros[i] = random.nextInt();
+            numeros[i] = random.nextInt(10);
         }
 
         System.out.printf("numeros gerados: ");
@@ -16,7 +16,15 @@ public class Main {
             System.out.printf(n + " ");
         }
 
-        int contador =
-        System.out.printf("numeros pares encontrados: ");
+        int contador = 0;
+        System.out.printf("\nnumeros pares encontrados nas posicoes: ");
+        for (int i = 0; i < numeros.length; i++) {
+            if (numeros[i] % 2 == 0){
+                System.out.println(i + " ");
+                contador++;
+            }
+        }
+
+        System.out.println("numero total de pares: " + contador);
     }
 }

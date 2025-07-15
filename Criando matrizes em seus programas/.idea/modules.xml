@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array bidimensional - matriz de strings/Array bidimensional - matriz de strings.iml" filepath="$PROJECT_DIR$/Array bidimensional - matriz de strings/Array bidimensional - matriz de strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_de_strings/Array_de_strings.iml" filepath="$PROJECT_DIR$/Array_de_strings/Array_de_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 4/Busca Linear - buscar um numero em um array/Busca Linear - buscar um numero em um array.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 4/Busca Linear - buscar um numero em um array/Busca Linear - buscar um numero em um array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 4/Busca linear - maior numero e posicoes que aparece/Busca linear - maior numero e posicoes que aparece.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 4/Busca linear - maior numero e posicoes que aparece/Busca linear - maior numero e posicoes que aparece.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copiando parte de um array com Arrays.copyOfRange/Copiando parte de um array com Arrays.copyOfRange.iml" filepath="$PROJECT_DIR$/Copiando parte de um array com Arrays.copyOfRange/Copiando parte de um array com Arrays.copyOfRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copiando parte de um array com System.arraycopy/Copiando parte de um array com System.arraycopy.iml" filepath="$PROJECT_DIR$/Copiando parte de um array com System.arraycopy/Copiando parte de um array com System.arraycopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Criando matrizes em seus programas.iml" filepath="$PROJECT_DIR$/.idea/Criando matrizes em seus programas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Patrica 8/Patrica 8.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Patrica 8/Patrica 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percorrendo a matriz com for/Percorrendo a matriz com for.iml" filepath="$PROJECT_DIR$/Percorrendo a matriz com for/Percorrendo a matriz com for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 1/Pratica 1.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 1/Pratica 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 1 - Soma e média dos valores/Pratica 1 - Soma e média dos valores.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 1 - Soma e média dos valores/Pratica 1 - Soma e média dos valores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 10/Pratica 10.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 10/Pratica 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 2 - Maior e menor valor/Pratica 2 - Maior e menor valor.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 2 - Maior e menor valor/Pratica 2 - Maior e menor valor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 3 - Busvar valor especifico/Pratica 3 - Busvar valor especifico.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 3 - Busvar valor especifico/Pratica 3 - Busvar valor especifico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 5/Pratica 5.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 5/Pratica 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 5 - Contar Valores acima da media/Pratica 5 - Contar Valores acima da media.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratica 5 - Contar Valores acima da media/Pratica 5 - Contar Valores acima da media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 6/Pratica 6.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 6/Pratica 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 7/Pratica 7.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 7/Pratica 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 9/Pratica 9.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica 9/Pratica 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 par1/Pratica dia 2 par1.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 par1/Pratica dia 2 par1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 3/Pratica dia 2 part 3.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 3/Pratica dia 2 part 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 4/Pratica dia 2 part 4.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 4/Pratica dia 2 part 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 5/Pratica dia 2 part 5.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 5/Pratica dia 2 part 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 6/Pratica dia 2 part 6.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 6/Pratica dia 2 part 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 7/Pratica dia 2 part 7.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 7/Pratica dia 2 part 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 8/Pratica dia 2 part 8.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part 8/Pratica dia 2 part 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part2/Pratica dia 2 part2.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part2/Pratica dia 2 part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part3/Pratica dia 2 part3.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 2/Pratica dia 2 part3/Pratica dia 2 part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica2/Pratica2.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica2/Pratica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica3/Pratica3.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica3/Pratica3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/Pratica4/Pratica4.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/Pratica4/Pratica4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratitca 4 - Separar pares e impares/Pratitca 4 - Separar pares e impares.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 3 - Soma, média, maior, menor valor e outras análises/Pratitca 4 - Separar pares e impares/Pratitca 4 - Separar pares e impares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 4/busca linear - buscar numeros pares/busca linear - buscar numeros pares.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 4/busca linear - buscar numeros pares/busca linear - buscar numeros pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticas/Exer dia 1/untitled/untitled.iml" filepath="$PROJECT_DIR$/Praticas/Exer dia 1/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
